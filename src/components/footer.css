@@ -1,0 +1,21 @@
+.footer-container {
+
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background-color: #28282B;
+    color: whitesmoke;
+    padding-top: 10px;
+    width: 100vw;
+    margin-left: calc(-50vw + 50%);
+}
+
+.footer {
+    padding: 1rem;
+    text-align: center;
+
+}
+
+.footer a i {
+    margin: 5px;
+}

@@ -1,0 +1,25 @@
+html {
+    height: 100%;
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    height: 100%;
+    overflow: auto;
+}
+
+#root {
+   margin-bottom: 100px;
+    overflow: auto;
+}
