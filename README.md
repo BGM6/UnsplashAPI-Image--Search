@@ -1,6 +1,6 @@
 # Unsplash Image Search Application Created with React
     
-For this assignment I created a React-based Google Books Search app.  I used Node Express and MongoDB so that users can save books to review or purchase later.
+In this application I created a image search user interface using the Unsplash API
 
 URL: "https://github.com/BGM6/UnsplashAPI-Image--Search"
 
