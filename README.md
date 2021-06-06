@@ -5,7 +5,7 @@ For this assignment I created a React-based Google Books Search app.  I used Nod
 URL: "https://github.com/BGM6/UnsplashAPI-Image--Search"
 
     # Technology
-    Javascript, React, Node.js, Bootstrap, Semantic-Ui, fontAwesome
+    Javascript, React, Node.js, Semantic-Ui, axios, fontAwesome, create-react-app
     
     # Author 
     Bryan Guilas
