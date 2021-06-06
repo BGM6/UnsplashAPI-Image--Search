@@ -2,9 +2,7 @@
     
 For this assignment I created a React-based Google Books Search app.  I used Node Express and MongoDB so that users can save books to review or purchase later.
 
-URL: " "
-
-* [Installation](#Installation)
+URL: "https://github.com/BGM6/UnsplashAPI-Image--Search"
 
     # Technology
     Javascript, React, Node.js, Bootstrap, Semantic-Ui, fontAwesome
