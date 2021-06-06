@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import unsplash from '../api/unsplash';
 import './style.css'
-import ImageList from './ImageList';
+import ImageList from '../css/ImageList';
 import SearchBar from './SearchBar';
 import Footer from './Footer';
 
