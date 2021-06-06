@@ -12,7 +12,7 @@ URL: "https://github.com/BGM6/UnsplashAPI-Image--Search"
     
 **bgm6**
     
-Email: bguilas21@yahoo.com
+Email: bryanJguilas@gmail.com
     
 GitHub: https://github.com/BGM6
     
